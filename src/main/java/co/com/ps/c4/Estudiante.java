@@ -1,6 +1,6 @@
-package c4;
+package co.com.ps.c4;
 
-import java.util.*;
+import java.util.Scanner;
 public class Estudiante {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

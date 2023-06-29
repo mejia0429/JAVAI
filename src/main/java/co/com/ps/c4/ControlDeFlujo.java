@@ -1,4 +1,4 @@
-package c4;
+package co.com.ps.c4;
 
 import java.util.Scanner;
 
